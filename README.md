@@ -10,5 +10,5 @@ welcome to page *Ahmad Arman*
 |   tybe     |   link       |
 ------------ | -------------
 |Home        | [click her](Home.md)   |
-| read01     | [click her](read01.md) |
+| read-01     | [click her](read-01.md) |
 
